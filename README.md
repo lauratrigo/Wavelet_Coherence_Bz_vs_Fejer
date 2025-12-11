@@ -77,31 +77,26 @@ Os gráficos serão salvos em images/.
 
 ### Bz × Vd_mean
 <div align="center">
-  <h4><strong>Bz × Vd_{mean}</strong></h4>
   <img src="images/WCOH_Fejer_Bz_Vd__mean_.png">
 </div>
 
 ### Bz × Vd_storm
 <div align="center">
-  <h4><strong>Bz × Vd_{storm}</strong></h4>
   <img src="images/WCOH_Fejer_Bz_Vd__storm_.png">
 </div>
 
 ### Bz × Vd_total
 <div align="center">
-  <h4><strong>Bz × Vd_{total}</strong></h4>
   <img src="images/WCOH_Fejer_Bz_Vd__total_.png">
 </div>
 
 ### Bz × PPEF
 <div align="center">
-  <h4><strong>Bz × PPEF</strong></h4>
   <img src="images/WCOH_Fejer_Bz_PPEF.png">
 </div>
 
 ### Bz × DDEF
 <div align="center">
-  <h4><strong>Bz × DDEF</strong></h4>
   <img src="images/WCOH_Fejer_Bz_DDEF.png">
 </div>
 
