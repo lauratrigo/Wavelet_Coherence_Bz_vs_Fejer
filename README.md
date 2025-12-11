@@ -73,7 +73,7 @@ Os gráficos serão salvos em images/.
 
 ---
 
-# Bz × Drift / Fejer Sinais
+# Bz × Fejer 
 
 ### Bz × Vd_mean
 <div align="center">
