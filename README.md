@@ -32,12 +32,12 @@ O objetivo é investigar o acoplamento espectro-temporal entre o vento solar (Bz
 ## 📂 Estrutura do Projeto
 
 ```bash
-Wavelet_Coherence_Bz_vs_Drifts/
+Wavelet_Coherence_Bz_vs_Fejer
 ├── dados/
 │ ├── mediasionosfericasARG.mat
 │ ├── dados_Omni_Tratados.txt
 │ └── drift.dat
-├── figuras_wcoh/
+├── images/
 │ ├── WCOH_Bz_Vd_mean.png
 │ ├── WCOH_Bz_Vd_storm.png
 │ ├── WCOH_Bz_Vd_total.png
@@ -54,8 +54,8 @@ Wavelet_Coherence_Bz_vs_Drifts/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/Wavelet_Coherence_Bz_vs_Drifts.git
-cd Wavelet_Coherence_Bz_vs_Drifts
+git clone https://github.com/lauratrigo/Wavelet_Coherence_Bz_vs_Fejer.git
+cd Wavelet_Coherence_Bz_vs_Fejer
 ```
 
 2. Abra o MATLAB, certifique-se de que os arquivos `.mat`, `.txt` e `drift.dat` estão na pasta `dados/`.
